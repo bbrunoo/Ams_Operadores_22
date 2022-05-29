@@ -1,0 +1,15 @@
+E:\Programers22\Ams_Operadores_22\bin\Debug\net6.0\Ams_Operadores_22.exe
+E:\Programers22\Ams_Operadores_22\bin\Debug\net6.0\Ams_Operadores_22.deps.json
+E:\Programers22\Ams_Operadores_22\bin\Debug\net6.0\Ams_Operadores_22.runtimeconfig.json
+E:\Programers22\Ams_Operadores_22\bin\Debug\net6.0\Ams_Operadores_22.dll
+E:\Programers22\Ams_Operadores_22\bin\Debug\net6.0\Ams_Operadores_22.pdb
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.csproj.AssemblyReference.cache
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.AssemblyInfoInputs.cache
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.AssemblyInfo.cs
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.csproj.CoreCompileInputs.cache
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.dll
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\refint\Ams_Operadores_22.dll
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.pdb
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\Ams_Operadores_22.genruntimeconfig.cache
+E:\Programers22\Ams_Operadores_22\obj\Debug\net6.0\ref\Ams_Operadores_22.dll
